@@ -1,25 +1,23 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Gothic+A1&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=AAAAAA&multiline=true&width=600&height=80&lines=Welcome+to+my+shadow+realm...">🦇</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=4000&pause=1000&center=true&vCenter=true&color=FF69B4&multiline=true&width=600&height=80&lines=Welcome+to+my+cozy+coding+corner...">
+  ☕🌷
+</h1>
 
-<p align="center">
-  <em>Code in the dark. Create in the silence. Deploy with fire.</em> 🖤
-</p>
-
----
-
-### 🕯️ Who Am I?
-
-- 🦴 A backend alchemist—summoning structure from chaos
-- 🕸️ Fluent in Django, Docker, and cryptic logs at 3 AM
-- 🩸 I write clean code with dirty thoughts (about refactors)
-- 🪞 Obsessed with solitude, silence, and beautifully broken things
-- ⚰️ Current status: alive, barely, and debugging
+<h1 align="center">🌸 Hi there, I'm Daniela 💖</h1>
 
 ---
 
-### 🛠 Tech Stack
+### 💅 About Me
 
-```bash
-Languages:     Python, JavaScript, Bash
-Frameworks:    Django, React, Tailwind (dark theme only)
-Tools:         Docker, Redis, PostgreSQL, GitHub Actions
-Aesthetic:     Monospaced fonts + terminal themes + moonlight
+- 🌼 Self-taught developer with a soft spot for pretty UI
+- 💖 Currently learning: API integration, React animations, and product design!
+
+---
+
+### 🛍 Tech I Like
+
+```txt
+🌸 Languages: Python, JavaScript, HTML, CSS
+🧁 Frameworks: Django, React, Tailwind
+🎀 Tools: Docker, GitHub, Figma, VSCode
+☁️ Bonus: PostgreSQL, Redis, CI/CD
